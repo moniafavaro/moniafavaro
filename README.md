@@ -4,7 +4,7 @@
 
 <p align='center'>A Brazilian girl, who loves cats and is a Junior Software Engineer based in London.</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moniafavaro&show_icons&theme=tokyonight)
 
 <!---
 moniafavaro/moniafavaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
