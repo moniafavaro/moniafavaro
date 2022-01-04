@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @moniafavaro
+# Hi, I’m Monia Favaro 👋 
+<p align="center"> Hello <p>
+
+
 - 👀 I’m interested in Software Technologies 
 - 🌱 I’m currently learning JavaScript, CSS, HTML, ReactJS, NodeJS, Express, MongoDB, Mongoose, Python, Django
 
