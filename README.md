@@ -1,5 +1,4 @@
-# Hi, I’m Monia Favaro 👋 
-<p align="center"> Hello <p>
+<p align="center"> # Hi, I’m Monia Favaro 👋 </>
 
 
 - 👀 I’m interested in Software Technologies 
