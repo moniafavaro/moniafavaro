@@ -25,11 +25,12 @@
 </p>
 
 </br></br>
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://github.com/moniafavaro/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&repo=github-readme-stats" />
 </a>
-</p>
+</p> -->
+
 
 
 <!---
