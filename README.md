@@ -25,14 +25,10 @@
 </p>
 
 </br></br>
-<!-- <p align='center'>
-<a href="https://github.com/moniafavaro/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&repo=github-readme-stats" />
-</a>
-</p> -->
 
-
-
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&hide=css&theme=tokyonight'>
+</p>
 <!---
 moniafavaro/moniafavaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
