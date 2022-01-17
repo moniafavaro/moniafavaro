@@ -1,10 +1,11 @@
 <h1 align="center"> Hello World 👋, I’m Monia Favaro</h1>
 
+</br>
 <p align="center"><a href='https://www.linkedin.com/in/moniafavaro/' target="_blank">LinkedIn</a> | <a href='https://twitter.com/moniafavaro' target="_blank">Twitter</a> | <a href='https://www.instagram.com/moniiafavaro/' target="_blank">Instagram</a></p>
 
 <p align='center'>A Brazilian girl, who loves cats and is a Junior Software Engineer based in London.</p>
 
-
+</br>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
@@ -23,8 +24,13 @@
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp
 </p>
 
+</br></br>
+<p align='center'>
+<a href="https://github.com/moniafavaro/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&repo=github-readme-stats" />
+</a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniafavaro)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 moniafavaro/moniafavaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
