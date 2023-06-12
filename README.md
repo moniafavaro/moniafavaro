@@ -32,9 +32,10 @@
 </br></br>
 
 <p align='center'>
-<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&hide=css&theme=tokyonight'> -->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=moniafavaro&hide=css&theme=tokyonight'>
 </p>
-<!---
-moniafavaro/moniafavaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align='center'>
+  <img src='https://awesome-github-stats.azurewebsites.net/user-stats/moniafavaro?cardType=level-alternate&theme=tokyonight&preferLogin=false'>
+<!-- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/moniafavaro?cardType=level-alternate&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card) -->
+</p>
