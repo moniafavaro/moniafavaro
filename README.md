@@ -2,7 +2,7 @@
 
 </br>
 <p align="center">
-  <a href='https://www.linkedin.com/in/moniafavaro/' target="_blank">LinkedIn</a> | <a href='https://twitter.com/moniafavaro' target="_blank">Twitter</a> | <a href='https://www.instagram.com/moniiafavaro/' target="_blank">Instagram</a> | <a href='https://moniafavaro.github.io/' target="_blank">Portfolio</a>
+  <a href='https://www.linkedin.com/in/moniafavaro/' target="_blank">LinkedIn</a> | <a href='https://twitter.com/moniafavaro' target="_blank">Twitter</a> | <a href='https://moniafavaro.github.io/' target="_blank">Portfolio</a>
 </p>
 
 <p align='center'>A Brazilian girl, who loves cats and is a Junior Software Engineer based in London.</p>
@@ -16,7 +16,6 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
   <br />
-  <img src="https://img.icons8.com/ios/50/000000/django.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <br />
